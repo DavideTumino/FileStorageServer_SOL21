@@ -1,0 +1,6 @@
+n_thread_workers = 1
+
+spazio_memorizzazione = 1000
+max_num_files = 100
+
+socket_name = /pippo
